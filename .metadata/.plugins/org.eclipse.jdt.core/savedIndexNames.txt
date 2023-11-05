@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\82106\바탕 화면\금오공대\2021-2\1.Adventure design\Level1\Card_game\.metadata\.plugins\org.eclipse.jdt.core
+3947015059.index

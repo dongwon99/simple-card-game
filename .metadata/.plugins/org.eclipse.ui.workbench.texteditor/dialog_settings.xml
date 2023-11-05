@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="JLabel"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="JLabel"/>
+			<item value="JLabal"/>
+			<item value="JLabql"/>
+			<item value="optionWindow"/>
+			<item value="ruleWindow"/>
+			<item value="gameWindow"/>
+			<item value="score.length"/>
+			<item value="num*4"/>
+			<item value="score"/>
+			<item value="sum"/>
+			<item value="role"/>
+			<item value="siba"/>
+			<item value="siva"/>
+		</list>
+		<list key="replacehistory">
+			<item value="n"/>
+			<item value="num"/>
+			<item value="num*8+2"/>
+			<item value="rule"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="893"/>
+		<item key="DIALOG_Y_ORIGIN" value="270"/>
+		<item key="DIALOG_WIDTH" value="288"/>
+		<item key="DIALOG_HEIGHT" value="420"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>
